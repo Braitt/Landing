@@ -11,6 +11,9 @@
         "theme",
         "template"
     ],
+    "scripts": {
+        "start": "node index.js"
+    },
     "license": "MIT",
     "author": "josega149, rgarcia11",
     "repository": {
